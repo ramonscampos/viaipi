@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/viaipi/static/js/main.6c966bd0.chunk.js",
-    "main.js.map": "/viaipi/static/js/main.6c966bd0.chunk.js.map",
+    "main.js": "/viaipi/static/js/main.72cd9745.chunk.js",
+    "main.js.map": "/viaipi/static/js/main.72cd9745.chunk.js.map",
     "runtime-main.js": "/viaipi/static/js/runtime-main.ecae49ba.js",
     "runtime-main.js.map": "/viaipi/static/js/runtime-main.ecae49ba.js.map",
     "static/js/2.9f82a06f.chunk.js": "/viaipi/static/js/2.9f82a06f.chunk.js",
     "static/js/2.9f82a06f.chunk.js.map": "/viaipi/static/js/2.9f82a06f.chunk.js.map",
     "index.html": "/viaipi/index.html",
-    "precache-manifest.439b85a45999218e334f61e078354fea.js": "/viaipi/precache-manifest.439b85a45999218e334f61e078354fea.js",
+    "precache-manifest.d1a835a3bc18ca4d1bdd529aa67a3a15.js": "/viaipi/precache-manifest.d1a835a3bc18ca4d1bdd529aa67a3a15.js",
     "service-worker.js": "/viaipi/service-worker.js",
     "static/js/2.9f82a06f.chunk.js.LICENSE.txt": "/viaipi/static/js/2.9f82a06f.chunk.js.LICENSE.txt",
     "static/media/apple_store.svg": "/viaipi/static/media/apple_store.1a3da9a1.svg",
     "static/media/google_play.svg": "/viaipi/static/media/google_play.518ab38d.svg",
     "static/media/logo-branca.svg": "/viaipi/static/media/logo-branca.44d3fce8.svg",
-    "static/media/logo_vertical.png": "/viaipi/static/media/logo_vertical.08f9eb5b.png"
+    "static/media/logo_vertical.png": "/viaipi/static/media/logo_vertical.ab62adc5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ecae49ba.js",
     "static/js/2.9f82a06f.chunk.js",
-    "static/js/main.6c966bd0.chunk.js"
+    "static/js/main.72cd9745.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0cc990fe98e54134824648194b72502f",
+    "revision": "036bce674df1ffef82d3205e39f397aa",
     "url": "/viaipi/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/viaipi/static/js/2.9f82a06f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a4f4684348e7786e648b",
-    "url": "/viaipi/static/js/main.6c966bd0.chunk.js"
+    "revision": "fc0cd4547843f425097b",
+    "url": "/viaipi/static/js/main.72cd9745.chunk.js"
   },
   {
     "revision": "0e55dba341b4a98b9509",
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/viaipi/static/media/logo-branca.44d3fce8.svg"
   },
   {
-    "revision": "08f9eb5bd5fb5f3f0a9b74366ae637fa",
-    "url": "/viaipi/static/media/logo_vertical.08f9eb5b.png"
+    "revision": "ab62adc5fbeaff61b6961c7d58079b77",
+    "url": "/viaipi/static/media/logo_vertical.ab62adc5.png"
   }
 ]);
