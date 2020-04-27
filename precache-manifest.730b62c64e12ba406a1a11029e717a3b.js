@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61beec71af821f1e915bb8b0e5b526d1",
+    "revision": "f837a15ad7ac4d18c50c777e1753f489",
     "url": "/viaipi/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/viaipi/static/js/2.9f82a06f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3b2113035f8be5d66b87",
-    "url": "/viaipi/static/js/main.71519438.chunk.js"
+    "revision": "779d34657b18c3d24931",
+    "url": "/viaipi/static/js/main.fb77c8b3.chunk.js"
   },
   {
     "revision": "0e55dba341b4a98b9509",

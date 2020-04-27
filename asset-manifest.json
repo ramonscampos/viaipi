@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/viaipi/static/js/main.71519438.chunk.js",
-    "main.js.map": "/viaipi/static/js/main.71519438.chunk.js.map",
+    "main.js": "/viaipi/static/js/main.fb77c8b3.chunk.js",
+    "main.js.map": "/viaipi/static/js/main.fb77c8b3.chunk.js.map",
     "runtime-main.js": "/viaipi/static/js/runtime-main.ecae49ba.js",
     "runtime-main.js.map": "/viaipi/static/js/runtime-main.ecae49ba.js.map",
     "static/js/2.9f82a06f.chunk.js": "/viaipi/static/js/2.9f82a06f.chunk.js",
     "static/js/2.9f82a06f.chunk.js.map": "/viaipi/static/js/2.9f82a06f.chunk.js.map",
     "index.html": "/viaipi/index.html",
-    "precache-manifest.81959f20e578c02f85861b8be018948c.js": "/viaipi/precache-manifest.81959f20e578c02f85861b8be018948c.js",
+    "precache-manifest.730b62c64e12ba406a1a11029e717a3b.js": "/viaipi/precache-manifest.730b62c64e12ba406a1a11029e717a3b.js",
     "service-worker.js": "/viaipi/service-worker.js",
     "static/js/2.9f82a06f.chunk.js.LICENSE.txt": "/viaipi/static/js/2.9f82a06f.chunk.js.LICENSE.txt",
     "static/media/apple_store.svg": "/viaipi/static/media/apple_store.1a3da9a1.svg",
@@ -18,6 +18,6 @@
   "entrypoints": [
     "static/js/runtime-main.ecae49ba.js",
     "static/js/2.9f82a06f.chunk.js",
-    "static/js/main.71519438.chunk.js"
+    "static/js/main.fb77c8b3.chunk.js"
   ]
 }
