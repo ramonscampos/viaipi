@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9f19f0efe56200372fc010cfa8a3b21f",
+    "revision": "91c2e656c060185291cc2f5eff800a27",
     "url": "/viaipi/index.html"
   },
   {
